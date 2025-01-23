@@ -29,8 +29,8 @@ As a software developer with a deep passion for coding and problem-solving, I th
 
 ## ⚡️ Where to find me  
 
-- [LinkedIn](https://linkedin.com/in/nirmalkumar)  
-- [Instagram](https://instagram.com/nirmalkumar)  
+- [LinkedIn](https://www.linkedin.com/in/nirmal-kumar-kilari-7129801a3/)  
+- [Instagram](https://instagram.com/Nirmalkilari123)  
 
 ---
 
