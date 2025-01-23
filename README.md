@@ -11,7 +11,7 @@ As a software developer with a deep passion for coding and problem-solving, I th
 
 💌 **Contact me**: kilarinirmalkumar@gmail.com  
 
-🖥️ **I’m currently learning**: React Native etc.  
+🖥️ **I’m currently learning**: Java, React Native etc.  
 
 ---
 
@@ -30,7 +30,7 @@ As a software developer with a deep passion for coding and problem-solving, I th
 ## ⚡️ Where to find me  
 
 - [LinkedIn](https://www.linkedin.com/in/nirmal-kumar-kilari-7129801a3/)  
-- [Instagram](https://instagram.com/Nirmalkilari123)  
+- [Instagram](https://instagram.com/yours_nirmal_045)  
 
 ---
 
