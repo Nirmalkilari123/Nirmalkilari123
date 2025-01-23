@@ -9,9 +9,9 @@ As a software developer with a deep passion for coding and problem-solving, I th
 
 📂 **Ask me about**: Node.js, React.js, Next.js, MongoDB, etc.  
 
-💌 **Contact me**: nirmalkumar@example.com  
+💌 **Contact me**: kilarinirmalkumar@gmail.com  
 
-🖥️ **I’m currently learning**: React Native, Three.js, etc.  
+🖥️ **I’m currently learning**: React Native etc.  
 
 ---
 
