@@ -5,7 +5,7 @@ As a software developer with a deep passion for coding and problem-solving, I th
 
 ---
 
-## 💻 Full Stack Developer at Little Moments  
+## 💻 Software Engineer at Zittle Technology Pvt Ltd 
 
 📂 **Ask me about**: Node.js, React.js, Next.js, MongoDB, etc.  
 
